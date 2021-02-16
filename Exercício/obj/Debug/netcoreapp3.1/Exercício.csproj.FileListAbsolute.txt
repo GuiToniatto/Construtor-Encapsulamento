@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.exe
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.deps.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Construtores e Encapsulamento\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.genruntimeconfig.cache
